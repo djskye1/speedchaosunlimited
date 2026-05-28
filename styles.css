@@ -1,0 +1,17 @@
+body {
+background: black;
+color: white;
+font-family: 'courier new', courier, monospace;
+}
+
+.sidebar {
+padding: 5px;
+border: 1px solid white;
+border-radius: 11px;
+}
+
+.content {
+padding: 5px;
+border: 1px solid white;
+border-radius: 11px;
+}
